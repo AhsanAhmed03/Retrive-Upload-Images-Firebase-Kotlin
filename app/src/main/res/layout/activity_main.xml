@@ -32,6 +32,12 @@
             android:layout_height="wrap_content"
             android:text="Upload Image"/>
 
+        <Button
+            android:id="@+id/retrive_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Retrive Image"/>
+
     </LinearLayout>
 
 </RelativeLayout>
